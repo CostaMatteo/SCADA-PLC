@@ -25,5 +25,11 @@ namespace Gestione_impianto___Telecamera_WPF
         {
             InitializeComponent();
         }
+
+        private void label1_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            GestioneManuale window = new GestioneManuale();
+            window.ShowDialog();
+        }
     }
 }

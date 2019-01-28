@@ -30,13 +30,10 @@ namespace Gestione_impianto___Telecamera_WPF
             nstOne.OnClick += NstOne_OnClick;
             nstTwo.OnClick += NstTwo_OnClick;
 
-            vntX.OnClick += VntX_OnClick;
             /*
             vntY.onClick += VntY_OnClickLeft;
             vntY.onClickRight += VntY_OnClickRight;
             */
-            vntZ.OnClick += VntZ_OnClick;
-            ventosa.OnClick += Ventosa_OnClick;
             pstMain.OnClick += PstMain_OnClick;
             pstSecondario.OnClick += PstSecondario_OnClick;
         }

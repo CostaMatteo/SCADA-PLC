@@ -25,7 +25,7 @@
                 </LinearGradientBrush>
             </Rectangle.Fill>
         </Rectangle>
-        <Label x:Name="label1" Content="Apri" HorizontalAlignment="Center" Margin="0,48,0,0" VerticalAlignment="Center" Background="{x:Null}" BorderBrush="White" Foreground="White" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16" Cursor="Hand"/>
+        <Label x:Name="label1" Content="Apri" HorizontalAlignment="Center" Margin="348,243,344,195" VerticalAlignment="Center" Background="{x:Null}" BorderBrush="White" Foreground="White" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16" Cursor="Hand" Width="100" MouseDown="label1_MouseDown"/>
         <Label x:Name="label_Copy" Content="Brero Riccardo Costamagna Mattero" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,10" RenderTransformOrigin="0.472,0.522" FontSize="16" Foreground="#66FFFFFF" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
     </Grid>
 </Window>
