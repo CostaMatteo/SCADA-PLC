@@ -6,30 +6,30 @@
         xmlns:local="clr-namespace:Gestione_impianto___Telecamera_WPF"
         xmlns:Custom_Element="clr-namespace:Gestione_impianto___Telecamera_WPF.Custom_Element" x:Class="Gestione_impianto___Telecamera_WPF.GestioneManuale"
         mc:Ignorable="d"
-        Title="GestioneManuale" Height="600" Width="1000" WindowStartupLocation="CenterScreen" Background="{x:Null}">
+        Title="GestioneManuale" Height="800" Width="1300" WindowStartupLocation="CenterScreen" Background="{x:Null}">
     <Grid RenderTransformOrigin="0.5,0.5">
         <Grid.Background>
             <ImageBrush ImageSource="bg02.jpg"/>
         </Grid.Background>
-        <Rectangle HorizontalAlignment="Center" Height="507" Margin="30,26,553,36" VerticalAlignment="Center" Width="409" Fill="White" RadiusX="10" RadiusY="10">
+        <Rectangle HorizontalAlignment="Left" Height="482" Margin="30,51,0,0" VerticalAlignment="Top" Width="409" Fill="White" RadiusX="10" RadiusY="10">
             <Rectangle.Effect>
                 <DropShadowEffect BlurRadius="10" Direction="280" Opacity="0.2"/>
             </Rectangle.Effect>
         </Rectangle>
-        <local:Switch x:Name="nstMain" HorizontalAlignment="Left" Margin="350,96,0,0" VerticalAlignment="Top" Width="46" RenderTransformOrigin="0.5,0.5"/>
-        <Label x:Name="label" Content="Nastro Principale" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="80,94,0,0" RenderTransformOrigin="0.472,0.522"/>
-        <local:Switch x:Name="nstOne" HorizontalAlignment="Left" Margin="350,127,0,0" VerticalAlignment="Top" Width="46" RenderTransformOrigin="0.5,0.5"/>
-        <Label x:Name="label_Copy" Content="Nastro uno" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="80,125,0,0" RenderTransformOrigin="0.472,0.522"/>
-        <local:Switch x:Name="nstTwo" HorizontalAlignment="Left" Margin="350,158,0,0" VerticalAlignment="Top" Width="46" RenderTransformOrigin="0.5,0.5"/>
-        <Label x:Name="label_Copy1" Content="Nastro due" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="80,156,0,0" RenderTransformOrigin="0.472,0.522"/>
+        <local:Switch x:Name="nstMain" HorizontalAlignment="Left" Margin="349,126,0,0" VerticalAlignment="Top" Width="46" RenderTransformOrigin="0.5,0.5"/>
+        <Label x:Name="label" Content="Nastro Principale" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="79,124,0,0" RenderTransformOrigin="0.472,0.522"/>
+        <local:Switch x:Name="nstOne" HorizontalAlignment="Left" Margin="349,157,0,0" VerticalAlignment="Top" Width="46" RenderTransformOrigin="0.5,0.5"/>
+        <Label x:Name="label_Copy" Content="Nastro uno" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="79,155,0,0" RenderTransformOrigin="0.472,0.522"/>
+        <local:Switch x:Name="nstTwo" HorizontalAlignment="Left" Margin="349,188,0,0" VerticalAlignment="Top" Width="46" RenderTransformOrigin="0.5,0.5"/>
+        <Label x:Name="label_Copy1" Content="Nastro due" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="79,186,0,0" RenderTransformOrigin="0.472,0.522"/>
         <Label x:Name="label_Copy2" Content="Ventosa Z" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="850,414,0,0" RenderTransformOrigin="0.472,0.522"/>
         <Label x:Name="label_Copy3" Content="Ventosa X" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="850,445,0,0" RenderTransformOrigin="0.472,0.522"/>
         <Label x:Name="label_Copy4" Content="Ventosa Y (motore)" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="850,476,0,0" RenderTransformOrigin="0.472,0.522"/>
         <Label x:Name="label_Copy5" Content="Ventosa" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="850,507,0,0" RenderTransformOrigin="0.472,0.522"/>
-        <local:Switch x:Name="pstMain" HorizontalAlignment="Left" Margin="350,189,0,0" VerticalAlignment="Top" Width="46" RenderTransformOrigin="0.5,0.5"/>
-        <Label x:Name="label_Copy6" Content="Pistone Principale" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="80,187,0,0" RenderTransformOrigin="0.472,0.522"/>
-        <local:Switch x:Name="pstSecondario" HorizontalAlignment="Left" Margin="350,220,0,0" VerticalAlignment="Top" Width="46" RenderTransformOrigin="0.5,0.5"/>
-        <Label x:Name="label_Copy7" Content="Pistone secondario" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="80,218,0,0" RenderTransformOrigin="0.472,0.522"/>
-        <Label x:Name="label_Copy8" Content="Nastri" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="56,44,877,490" RenderTransformOrigin="0.472,0.522" FontSize="18.667"/>
+        <local:Switch x:Name="pstMain" HorizontalAlignment="Left" Margin="349,219,0,0" VerticalAlignment="Top" Width="46" RenderTransformOrigin="0.5,0.5"/>
+        <Label x:Name="label_Copy6" Content="Pistone Principale" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="79,217,0,0" RenderTransformOrigin="0.472,0.522"/>
+        <local:Switch x:Name="pstSecondario" HorizontalAlignment="Left" Margin="349,250,0,0" VerticalAlignment="Top" Width="46" RenderTransformOrigin="0.5,0.5"/>
+        <Label x:Name="label_Copy7" Content="Pistone secondario" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="79,248,0,0" RenderTransformOrigin="0.472,0.522"/>
+        <Label x:Name="label_Copy8" Content="Nastri" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="52,75,1181,659" RenderTransformOrigin="0.472,0.522" FontSize="18.667"/>
     </Grid>
 </Window>
