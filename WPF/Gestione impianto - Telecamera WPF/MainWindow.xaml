@@ -6,12 +6,13 @@
         xmlns:local="clr-namespace:Gestione_impianto___Telecamera_WPF"
         xmlns:Custom_Element="clr-namespace:Gestione_impianto___Telecamera_WPF.Custom_Element" x:Class="Gestione_impianto___Telecamera_WPF.MainWindow"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="422" Width="746" WindowState="Maximized" WindowStartupLocation="CenterScreen">
     <Grid>
-        <local:Switch x:Name="swt_Connessione" HorizontalAlignment="Left" Margin="304,171,0,0" VerticalAlignment="Top" Width="50" RenderTransformOrigin="0.5,0.5" Loaded="swt_Connessione_Loaded"/>
-        <Label x:Name="label" Content="Apri connessione" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="198,140,0,0" RenderTransformOrigin="0.472,0.522"/>
-        <Custom_Element:cstButton x:Name="btnManuale" HorizontalAlignment="Left" Margin="226,220,0,0" VerticalAlignment="Top" Text="Valore" onClick="ApriGestioneManuale"/>
-        <local:Switch HorizontalAlignment="Left" Margin="304,142,0,0" VerticalAlignment="Top"/>
-        <Custom_Element:cstButton HorizontalAlignment="Left" Margin="226,250,0,0" VerticalAlignment="Top"/>
+        <Rectangle HorizontalAlignment="Center" Height="253" Margin="0,0,0,0" VerticalAlignment="Center" Width="409" Fill="White" RadiusX="10" RadiusY="10">
+            <Rectangle.Effect>
+                <DropShadowEffect BlurRadius="10" Direction="280" Opacity="0.2"/>
+            </Rectangle.Effect>
+        </Rectangle>
+        <Label x:Name="label" Content="Apri connessione" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,100" RenderTransformOrigin="0.472,0.522" FontSize="26.667"/>
     </Grid>
 </Window>

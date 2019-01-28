@@ -25,8 +25,8 @@ namespace Gestione_impianto___Telecamera_WPF
         {
             InitializeComponent();
             //btnManuale.OnClick += ApriGestioneManuale;
-            swt_Connessione.OnClick += Swt_Connessione_OnClick;
-            btnManuale.onClick += ApriGestioneManuale;
+            //swt_Connessione.OnClick += Swt_Connessione_OnClick;
+            //btnManuale.onClick += ApriGestioneManuale;
         }
 
         private void Swt_Connessione_OnClick(Switch sender, bool value)

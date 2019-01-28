@@ -81,3 +81,27 @@ F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - T
 C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\bin\Debug\Gestione impianto - Telecamera WPF.exe.config
 C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.exe
 C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.pdb
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\bin\Debug\Gestione impianto - Telecamera WPF.exe
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\bin\Debug\Gestione impianto - Telecamera WPF.pdb
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\bin\Debug\S7.Net.xml
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.csprojResolveAssemblyReference.cache
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstButton.g.cs
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstSlider.g.cs
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\GestioneManuale.g.cs
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\MainWindow.g.cs
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstSwitch.g.cs
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\App.g.cs
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF_MarkupCompile.cache
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF_MarkupCompile.lref
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstButton.baml
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstSlider.baml
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\GestioneManuale.baml
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\MainWindow.baml
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstSwitch.baml
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.g.resources
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione_impianto___Telecamera_WPF.Properties.Resources.resources
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.csproj.GenerateResource.Cache
