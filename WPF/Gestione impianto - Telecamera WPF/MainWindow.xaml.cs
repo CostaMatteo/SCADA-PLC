@@ -24,36 +24,6 @@ namespace Gestione_impianto___Telecamera_WPF
         public MainWindow()
         {
             InitializeComponent();
-            //btnManuale.OnClick += ApriGestioneManuale;
-            //swt_Connessione.OnClick += Swt_Connessione_OnClick;
-            //btnManuale.onClick += ApriGestioneManuale;
-        }
-
-        private void Swt_Connessione_OnClick(Switch sender, bool value)
-        {
-            if (value)
-            {
-                PLController.Init(Environment.CurrentDirectory + @"\variabili.json");
-                GestioneManuale frm = new GestioneManuale();
-
-                MessageBox.Show(PLController.Write("Blocco_dati_1.nstMain", true).ToString());
-                //frm.ShowDialog();
-            }
-            else
-                PLController.Close();
-
-        }
-
-        private void ApriGestioneManuale(cstButton sender)
-        {
-            GestioneManuale frm = new GestioneManuale();
-
-            frm.ShowDialog();
-        }
-
-        private void swt_Connessione_Loaded(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }

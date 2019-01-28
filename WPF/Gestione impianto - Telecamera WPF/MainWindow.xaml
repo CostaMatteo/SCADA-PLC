@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Gestione_impianto___Telecamera_WPF"
         xmlns:Custom_Element="clr-namespace:Gestione_impianto___Telecamera_WPF.Custom_Element" x:Class="Gestione_impianto___Telecamera_WPF.MainWindow"
         mc:Ignorable="d"
-        Title="MainWindow" Height="422" Width="746" WindowState="Maximized" WindowStartupLocation="CenterScreen">
+        Title="MainWindow" Height="500" Width="800" WindowState="Maximized" WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid.Background>
             <ImageBrush ImageSource="bg01.jpg"/>
@@ -26,5 +26,6 @@
             </Rectangle.Fill>
         </Rectangle>
         <Label x:Name="label1" Content="Apri" HorizontalAlignment="Center" Margin="0,48,0,0" VerticalAlignment="Center" Background="{x:Null}" BorderBrush="White" Foreground="White" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16" Cursor="Hand"/>
+        <Label x:Name="label_Copy" Content="Brero Riccardo Costamagna Mattero" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,10" RenderTransformOrigin="0.472,0.522" FontSize="16" Foreground="#66FFFFFF" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
     </Grid>
 </Window>
