@@ -78,3 +78,6 @@ F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - T
 F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.g.resources
 F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione_impianto___Telecamera_WPF.Properties.Resources.resources
 F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.csproj.GenerateResource.Cache
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\bin\Debug\Gestione impianto - Telecamera WPF.exe.config
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.exe
+C:\Users\r.brero.9981\Desktop\Git\ScadaPLC\SCADA-PLC\WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.pdb

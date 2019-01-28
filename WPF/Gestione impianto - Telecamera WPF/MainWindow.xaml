@@ -8,10 +8,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <local:Switch x:Name="swt_Connessione" HorizontalAlignment="Left" Margin="116,12,0,0" VerticalAlignment="Top" Width="45" RenderTransformOrigin="0.5,0.5" Loaded="swt_Connessione_Loaded"/>
-        <Label x:Name="label" Content="Apri connessione" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" RenderTransformOrigin="0.472,0.522"/>
-        <Custom_Element:cstButton x:Name="btnManuale" HorizontalAlignment="Left" Margin="360,193,0,0" VerticalAlignment="Top" Text="Valore" onClick="ApriGestioneManuale"/>
-        <local:Switch HorizontalAlignment="Left" Margin="111,128,0,0" VerticalAlignment="Top"/>
-        <Custom_Element:cstButton HorizontalAlignment="Left" Margin="371,250,0,0" VerticalAlignment="Top"/>
+        <local:Switch x:Name="swt_Connessione" HorizontalAlignment="Left" Margin="304,171,0,0" VerticalAlignment="Top" Width="50" RenderTransformOrigin="0.5,0.5" Loaded="swt_Connessione_Loaded"/>
+        <Label x:Name="label" Content="Apri connessione" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="198,140,0,0" RenderTransformOrigin="0.472,0.522"/>
+        <Custom_Element:cstButton x:Name="btnManuale" HorizontalAlignment="Left" Margin="226,220,0,0" VerticalAlignment="Top" Text="Valore" onClick="ApriGestioneManuale"/>
+        <local:Switch HorizontalAlignment="Left" Margin="304,142,0,0" VerticalAlignment="Top"/>
+        <Custom_Element:cstButton HorizontalAlignment="Left" Margin="226,250,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
