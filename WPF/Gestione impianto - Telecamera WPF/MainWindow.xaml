@@ -8,11 +8,23 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="422" Width="746" WindowState="Maximized" WindowStartupLocation="CenterScreen">
     <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="bg01.jpg"/>
+        </Grid.Background>
         <Rectangle HorizontalAlignment="Center" Height="253" Margin="0,0,0,0" VerticalAlignment="Center" Width="409" Fill="White" RadiusX="10" RadiusY="10">
             <Rectangle.Effect>
                 <DropShadowEffect BlurRadius="10" Direction="280" Opacity="0.2"/>
             </Rectangle.Effect>
         </Rectangle>
         <Label x:Name="label" Content="Apri connessione" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,100" RenderTransformOrigin="0.472,0.522" FontSize="26.667"/>
+        <Rectangle HorizontalAlignment="Center" Height="45" Margin="0,50,0,0" RadiusY="25" RadiusX="25" VerticalAlignment="Center" Width="141" Cursor="Hand">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF2FD1C9" Offset="1"/>
+                    <GradientStop Color="#FF1FE695"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Label x:Name="label1" Content="Apri" HorizontalAlignment="Center" Margin="0,48,0,0" VerticalAlignment="Center" Background="{x:Null}" BorderBrush="White" Foreground="White" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16" Cursor="Hand"/>
     </Grid>
 </Window>
