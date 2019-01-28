@@ -1,0 +1,13 @@
+F:\Scuola\PLC\Programma\SCADA-Form\SCADA-Form\bin\Debug\SCADA-Form.exe.config
+F:\Scuola\PLC\Programma\SCADA-Form\SCADA-Form\obj\Debug\SCADA-Form.csprojResolveAssemblyReference.cache
+F:\Scuola\PLC\Programma\SCADA-Form\SCADA-Form\obj\Debug\SCADA_Form.Form1.resources
+F:\Scuola\PLC\Programma\SCADA-Form\SCADA-Form\obj\Debug\SCADA_Form.Properties.Resources.resources
+F:\Scuola\PLC\Programma\SCADA-Form\SCADA-Form\obj\Debug\SCADA-Form.csproj.GenerateResource.Cache
+F:\Scuola\PLC\Programma\SCADA-Form\SCADA-Form\bin\Debug\SCADA-Form.exe
+F:\Scuola\PLC\Programma\SCADA-Form\SCADA-Form\bin\Debug\SCADA-Form.pdb
+F:\Scuola\PLC\Programma\SCADA-Form\SCADA-Form\bin\Debug\S7.Net.dll
+F:\Scuola\PLC\Programma\SCADA-Form\SCADA-Form\bin\Debug\Newtonsoft.Json.pdb
+F:\Scuola\PLC\Programma\SCADA-Form\SCADA-Form\bin\Debug\Newtonsoft.Json.xml
+F:\Scuola\PLC\Programma\SCADA-Form\SCADA-Form\obj\Debug\SCADA-Form.exe
+F:\Scuola\PLC\Programma\SCADA-Form\SCADA-Form\obj\Debug\SCADA-Form.pdb
+F:\Scuola\PLC\Programma\SCADA-Form\SCADA-Form\bin\Debug\S7.Net.xml
