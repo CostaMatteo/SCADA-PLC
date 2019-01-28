@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="Gestione_impianto___Telecamera_WPF.Switch"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Gestione_impianto___Telecamera_WPF"
+             mc:Ignorable="d" Width="50" Height="24">
+    <Grid>
+        <Border x:Name="brd" BorderBrush="#FFB2C2D4" BorderThickness="1" CornerRadius="12" Background="White" RenderTransformOrigin="0.5,0.5">
+            <Ellipse x:Name="btn"  Fill="#FFB2C2D4" Width="18" Height="18" Margin="2,2,0,2" MouseDown="Ellipse_MouseDown" HorizontalAlignment="Left" />
+        </Border>
+    </Grid>
+</UserControl>

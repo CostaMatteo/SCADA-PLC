@@ -1,0 +1,80 @@
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Gestione impianto - Telecamera WPF.exe.config
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Gestione impianto - Telecamera WPF.exe
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Gestione impianto - Telecamera WPF.pdb
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.csprojResolveAssemblyReference.cache
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\GestioneManuale.g.cs
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\MainWindow.g.cs
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Switch.g.cs
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\App.g.cs
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF_MarkupCompile.cache
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF_MarkupCompile.lref
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\GestioneManuale.baml
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\MainWindow.baml
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Switch.baml
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.g.resources
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione_impianto___Telecamera_WPF.Properties.Resources.resources
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.csproj.GenerateResource.Cache
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.exe
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.pdb
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\button.g.cs
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\button.baml
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Newtonsoft.Json.dll
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\S7.Net.dll
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Newtonsoft.Json.pdb
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Newtonsoft.Json.xml
+E:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\S7.Net.xml
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Gestione impianto - Telecamera WPF.exe.config
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.exe
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.pdb
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.csprojResolveAssemblyReference.cache
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstSlider.g.cs
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\GestioneManuale.g.cs
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\MainWindow.g.cs
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\App.g.cs
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF_MarkupCompile.cache
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF_MarkupCompile.lref
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Gestione impianto - Telecamera WPF.exe
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Gestione impianto - Telecamera WPF.pdb
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Newtonsoft.Json.dll
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Newtonsoft.Json.pdb
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Newtonsoft.Json.xml
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\S7.Net.xml
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstSlider.baml
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\GestioneManuale.baml
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\MainWindow.baml
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.g.resources
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione_impianto___Telecamera_WPF.Properties.Resources.resources
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.csproj.GenerateResource.Cache
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstButton.g.cs
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstSwitch.g.cs
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstButton.baml
+F:\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstSwitch.baml
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Gestione impianto - Telecamera WPF.exe.config
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.exe
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.pdb
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Gestione impianto - Telecamera WPF.exe
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Gestione impianto - Telecamera WPF.pdb
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Newtonsoft.Json.dll
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Newtonsoft.Json.pdb
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\Newtonsoft.Json.xml
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\bin\Debug\S7.Net.xml
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.csprojResolveAssemblyReference.cache
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstButton.g.cs
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstSlider.g.cs
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\GestioneManuale.g.cs
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\MainWindow.g.cs
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstSwitch.g.cs
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\App.g.cs
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF_MarkupCompile.cache
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF_MarkupCompile.lref
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstButton.baml
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstSlider.baml
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\GestioneManuale.baml
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\MainWindow.baml
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Custom Element\cstSwitch.baml
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.g.resources
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione_impianto___Telecamera_WPF.Properties.Resources.resources
+F:\Scuola\PLC\Programma\Gestione impianto - Telecamera WPF\Gestione impianto - Telecamera WPF\obj\Debug\Gestione impianto - Telecamera WPF.csproj.GenerateResource.Cache

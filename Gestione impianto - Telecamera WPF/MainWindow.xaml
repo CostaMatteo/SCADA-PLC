@@ -1,0 +1,17 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gestione_impianto___Telecamera_WPF"
+        xmlns:Custom_Element="clr-namespace:Gestione_impianto___Telecamera_WPF.Custom_Element" x:Class="Gestione_impianto___Telecamera_WPF.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <local:Switch x:Name="swt_Connessione" HorizontalAlignment="Left" Margin="116,12,0,0" VerticalAlignment="Top" Width="45" RenderTransformOrigin="0.5,0.5" Loaded="swt_Connessione_Loaded"/>
+        <Label x:Name="label" Content="Apri connessione" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" RenderTransformOrigin="0.472,0.522"/>
+        <Custom_Element:cstButton x:Name="btnManuale" HorizontalAlignment="Left" Margin="360,193,0,0" VerticalAlignment="Top" Text="Valore" onClick="ApriGestioneManuale"/>
+        <local:Switch HorizontalAlignment="Left" Margin="111,128,0,0" VerticalAlignment="Top"/>
+        <Custom_Element:cstButton HorizontalAlignment="Left" Margin="371,250,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

@@ -1,0 +1,87 @@
+[
+    {
+        "name": "esecuzione",
+        "index": "DB1.DBX0.0",
+        "type": 0,
+        "desc": "TRUE = esecuzione FALSE = pausa",
+        "defaultValue": 0
+    },
+    {
+        "name": "emergenza",
+        "index": "DB1.DBX0.1",
+        "type": 0,
+        "desc": "Controllo se premuto pulsante d'emergenza",
+        "defaultValue": 0
+    },
+    {
+        "name": "nstMain",
+        "index": "DB2.DBX0.0",
+        "type": 0,
+        "desc": "Nastro principale, pstPrincipale -> pstSecondario",
+        "defaultValue": 0
+    },
+    {
+        "name": "nstOne",
+        "index": "DB2.DBX0.2",
+        "type": 0,
+        "desc": "Nastro uno, vicino al computer",
+        "defaultValue": 0
+    },
+	{
+        "name": "nstTwo",
+        "index": "DB2.DBX0.3",
+        "type": 0,
+        "desc": "Nastro due, lontano al computer",
+        "defaultValue": 0
+    },
+    {
+        "name": "pstPrincipale",
+        "index": "DB2.DBX0.0",
+        "type": 0,
+        "desc": "Pistone principale, movimento blocchi",
+        "defaultValue": 0
+    },
+    {
+        "name": "pstSecondario",
+        "index": "DB2.DBX0.4",
+        "type": 0,
+        "desc": "Pistone secondario, movimento blocchi verso ventosa",
+        "defaultValue": 0
+    },
+    {
+        "name": "ventosa",
+        "index": "DB2.DBX0.5",
+        "type": 0,
+        "desc": "Aspirazione ventosa",
+        "defaultValue": 0
+    },
+  {
+    "name": "ventosaX",
+    "index": "DB2.DBX0.7",
+    "type": 0,
+    "desc": "Spostamento braccio ventosa sull'asse X",
+    "defaultValue": 0
+  },
+  {
+    "name": "ventosaYm",
+    "index": "DB2.DBX1.1",
+    "type": 0,
+    "desc": "Ventosa verso Prof",
+    "defaultValue": 0
+  },
+  {
+    "name": "ventosaYp",
+    "index": "DB2.DBX1.0",
+    "type": 0,
+    "desc": "Ventosa verso di noi",
+    "defaultValue": 0
+  },
+
+    {
+        "name": "ventosaZ",
+        "index": "DB2.DBX0.6",
+        "type": 0,
+        "desc": "Spostamento braccio ventosa sull'asse Z",
+        "defaultValue": 0
+    }
+]
